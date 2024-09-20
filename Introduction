@@ -1,0 +1,3 @@
+Calculate the cosine similarity between movies based on their vector representations. 
+Transform the combined features into a vector representation using the CountVectorizer from scikitlearn. 
+Recommend movies with the highest similarity scores as potential recommendations for the user.
